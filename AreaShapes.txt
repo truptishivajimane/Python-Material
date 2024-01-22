@@ -1,0 +1,45 @@
+def rectArea(l,b):
+    return l * b
+    
+def squareArea(s):
+    return s * s
+     
+def triArea(b,h):
+    return 0.5 * b * h
+    
+def circleArea(r):
+    return 3.14 * r * r
+        
+def kiteArea(l,h):
+    return (l*h)/2
+    
+def paralleloArea(b,perHeight):
+    return b * perHeight
+    
+def rohmbusArea(l,h):
+    return (l*h)/2
+    
+def octArea(a):
+    return 6.64 * a
+    
+def hexaArea(a):
+    return 1.5 * a * a * 1.73
+    
+def elipseArea(x1,x2):
+    return 3.14 * x1 * x2
+    
+def semiCircleArea(r):
+    return 0.5 * 3.14 * r * r
+    
+def cubeArea(a):
+    return 6 * a * a 
+    
+def sphereArea(s):
+    return 3.14 * 4 * r * r
+    
+def coneArea(r ,l):
+    return 3.14 * r * (r + l)
+    
+def hemiSphere(r):
+    return 3 * 3.14 * r * r
+    
